@@ -1,2 +1,2 @@
 # webapp-repo
-DACC web applicatoin
+DACC web application
