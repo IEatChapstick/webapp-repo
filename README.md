@@ -7,4 +7,4 @@ My first web application for App Dev 1
 
 ## Subheader 1
 
-Hello World
+Hello People
